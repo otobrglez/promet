@@ -1,6 +1,6 @@
 # promet
 
-Experimental shared library for Slovenian fraffic services.
+Experimental shared library for Slovenian traffic services.
 
 - [Oto Brglez](https://github.com/otobrglez)
 
